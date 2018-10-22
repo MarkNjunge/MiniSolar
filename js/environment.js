@@ -17,7 +17,7 @@ const ENVIRONMENT = {
   },
   starfield: {
     radius: 1000,
-    texturePath: "textures/galaxy_starfield.jpg",
+    texturePath: "textures/8k_stars_milky_way.jpg",
     segments: 16
   },
   saturn: {
