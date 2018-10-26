@@ -29,12 +29,12 @@ const ENVIRONMENT = {
     bumpScale: 0.5
   },
   saturnRings: {
-    radius: 25,
+    radius: 22,
     segments: 64,
     texturePath: "textures/8k_saturn_ring_alpha.png"
   },
   mimas: {
-    radius: 1,
+    radius: 2,
     segments: 8,
     position: { x: 50, y: 0, z: 0 },
     orbitRadius: 50,
@@ -45,7 +45,7 @@ const ENVIRONMENT = {
     shouldOrbit: true
   },
   enceladus: {
-    radius: 2,
+    radius: 5,
     segments: 32,
     position: { x: -70, y: 0, z: 0 },
     orbitRadius: 70,
